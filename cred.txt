@@ -1,0 +1,603 @@
+\\10.118.189.49\ReAssm\LolFiles
+
+--data check --
+Select distinct es.CorpRegionCode, es.VendorCode ,a.licenseprogram from app_solstice..GM_CLDB_SAPPRODUCTMAPPINGTB a 
+join eslstaging..ESL_GM_LOL_SAPPRODUCTMAPPING_VW  es 
+ On A.VendorCode COLLATE DATABASE_DEFAUlt  = es.VendorCode COLLATE DATABASE_DEFAUlt 
+and a.CorpRegionCode  = es.CorpRegionCode  
+and a.VendorPartNo COLLATE DATABASE_DEFAUlt = es.VendorPartNo COLLATE DATABASE_DEFAUlt
+
+---------------------
+-- program check
+--distinct vendor , country , and no of records
+
+Data Source=demunlivsql02q.quality.ecom.techdata;Initial Catalog=OpportunityStaging;Integrated Security=SSPI;Persist Security Info=False;Packet Size=4096;Max Pool Size=100;Min Pool Size=0;Pooling=Tregi
+td-emea.webex.com/meet/Mukesh.Negi
+https://td-emea.webex.com/mw0401lsp13/mywebex/cmr/cmr.do?siteurl=td-emea&AT=meet&username=Mukesh.Negi
+
+td-emea.webex.com/mw0401lsp13/mywebex/cmr/cmr.do?siteurl=td-emea&AT=meet&username=Tripathi.Amaresh
+gacutil /il "C:\ApiDll.txt"
+01204385072
+==================================
+
+tracert 62.225.34.153
+==========================
+agoel
+Techdata23
+Galaxys6109
+
+
+TD install
+Demuninto69d\z:
+
+---EMEA MACHINE--------------
+demund9036.emea.tdworldwide.com
+
+oosportal========================================
+
+http://10.118.163.211/ 
+jsubramanian
+TechWorld
+oosportal========================================
+
+Jenitas
+Techdata@19
+
+--====NUGET--------------------
+\\10.118.242.77\TechDataNuGetPackages
+=======API HELP==============
+ http://10.118.230.247:9701/SOAMiscellaneousEmailHelpPage/Help/Api/POST-api-communication-renewals-statusevents-search
+
+http://10.118.230.247:9701/SOAMiscellaneousEmailHelpPage/Help
+
+
+Ehttp://in-live-passionately.tumblr.com/post/128594879815/be-untameable-how-to-challenge-yourself-and
+
+http://in-live-passionately.tumblr.com/post/125422704980
+
+
+======EMEA HELPDESK  VPN CERTIFICATE==================
+75326000 498947002222
+
+
+ECZPS9772L
+===========become a beter programer========================
+https://www.hackerrank.com/
+
+id-jkumar
+pwd-Techdata08
+
+10.118.230.180 
+QMTADMIN/nz78_r1G
+
+web server : 10.118.230.46
+
+SQL
+dev server: 10.118.189.27
+Pwd:linux6_3 oosadm
+
+INTOUCH db P/Q
+demunvsql01
+
+integration: 10.118.230.27
+pwd:nz78_r1G
+
+Quality New
+DEMUNLIVSQL02Q (10.116.97.108)
+
+Dynamic DB
+LOLsqlClu13Prod
+LOLsqlClu13qual
+demundydb02
+
+10.118.4.251  :VPN proxy
+
+emea machine
+10.118.29.152
+demund9036.emea.tdworldwide.com [10.118.21.183]
+\\deedcvfile01.emea.tdworldwide.com\EUROPESHARE (ldrive )
+
+emea
+=============================
+jenitha.subramanian
+Techdata@1
+EMEA\jenitha.subramanian
+Techdata@1
+
+===============change bord url=============
+
+http://portals.prod.web.us.tdworldwide.com/sites/changepoint/Lists/Global%20ChangePoint/NewForm.aspx?RootFolder=
+
+
+============ooos portal====================
+jsubramanian
+TechWorld
+
+=====================oops call=================
+753260 
+0034619664767
+======================
+
+emea\jenitha.subramanian
+Techdata@03
+http://portals.prod.web.us.tdworldwide.com/sites/changepoint/SitePages/Home.aspx
+=====================QUERY TO GET DYNAMIC db======================
+select * from VSQLSTAT.c2cis.dbo.Country_connects where type='SQL'
+================================================================
+==================email attachment in data server =======================
+\\demundata11q.quality.ecom.techdata\d\inetpub\ftproot\email
+====================
+https://intouch.techdata.com
+
+
+
+=======================C2CIS=======================
+VSQLSTAT.c2cis.dbo.CUSTOMER_USERS
+==============================================
+
+
+10.118.4.251
+===============hcl corp 10.112.101.38==port 8080================
+ID: dsingh
+Password: Techdata@25
+
+emea\sachin.sharma
+Techdata18
+
+Machine
+10.118.189.46
+
+
+Saquib.alam
+1234ukuk!Q
+325009
+
+a/c no.
+325009/310016
+User Name : kbammi /l.webster
+Password: Apple456$
+
+kapil.bammi
+Apple456$
+
+id-jkumar
+pwd-Techdata08
+
+
+Proj Code(C/091217)
+10.118.189.48
+Mnegi
+Muk@sh_neg!
+
+
+rhussain_uk
+loltestuk14
+
+10.118.21.64 EMEA: Dinesh.Singh PW: Techdata11 
+
+=======================================
+https://xenapp.techdata.eu/Citrix/XenApp/auth/silentDetection.aspx
+
+SQL SERVER 2012
+===============
+10.118.189.28
+Kbammi 
+Citrix!121 
+VISual studio 2010 premium
+==============================
+10.118.189.52
+Kbammi
+Citrix!10
+
+10.118.189.126(sql 2008 r2 dts package)
+Kbammi 
+Citrix!121 
+=================================================
+http://stackoverflow.com/questions/14551255/how-do-i-enable-integration-services-ssis-in-sql-server-2008
+http://technet.microsoft.com/en-us/library/ms143496(v=sql.105).aspx(steps to DTS package migration)
+
+====================================================================
+=======================
+Prod DATA server path
+\\demundata01.production.ecom.techdata\d
+=======================
+Prod DB server Path
+\\demunlivfs02.production.ecom.techdata\R\Order\out\
+======================
+
+===================================================================
+http://oakdome.com/programming/SSIS_DTS_to_SSIS_Package_Migration.php
+
+http://10.118.189.86/GUIUploadTool
+
+
+FORMAT SQL QUERY============================
+www.dpriver.com/pp/sqlformat.htm
+
+
+http://vyaskn.tripod.com/sql_server_2005_making_ssis_packages_portable.htm
+
+COLLATE database_default NULL,
+
+================================JOBS faild to create in I DB===========
+
+file upload tool path
+
+\\10.118.230.46\d$\inetpub\wwwroot\UploadTool
+select * from catalog where programid = 92 and corpregionid = 14
+
+TFS Path:
+New Path: deedctfs02.emea.tdworldwide.com
+VS 2008: http://deedctfs01.emea.tdworldwide.com:8080/tfs/tfs2008
+VS 2010: http://deedctfs01.emea.tdworldwide.com:8080/tfs
+VS 2012: http://deedctfs01.emea.tdworldwide.com:8080/tfs
+
+ 2015 :  https://deedctfs03.emea.tdworldwide.com:8443/tfs
+==================================================================
+query to get error data for fileupload
+select * from ImportStage where importcontrolid = 49699
+
+select * from ProductFamilies where ProductFamilyDescription like  '%Windows 8%'
+
+select * from programs where vendorid = 1
+
+select * from ImportExceptions im
+join importstage imp on imp.ImportStageID = im.ImportStageID
+where im.ImportControlID = 49699
+
+65224739BA01A12
+65227537BA01A12
+salam
+1234ukuk
+if pointing to integration
+
+http://10.118.230.116/guiservices/default.aspx?local_url=http://10.118.189.49/LOL/default.aspx
+
+http://10.118.189.49/LOL/testvmware.aspx
+
+http://10.118.230.116/guiservices/default.aspx?local_url=http://10.118.189.52/LOL/default.aspx
+http://10.118.189.52/GUIUploadTool/Login.aspx
+
+http://10.118.230.116/guiservices/default.aspx?local_url=http://10.118.189.45/LOL/default.aspx
+http://10.118.189.52/EDIXMLWebApp/testpage.aspx
+if pointing to dev
+http://10.118.189.52/guiservices/default.aspx?local_url=http://10.118.189.52/LOL/default.aspx
+
+
+--get special bid files
+select * from importcontrol where ImportTypeCode = 'sb' order by 1 desc
+
+--For RQG
+--get conversion files
+select * from importcontrol where ImportTypeCode = 'cf' order by 1 desc
+--get order history files
+select * from importcontrol where ImportTypeCode = 'ou' order by 1 desc
+
+http://www.developermarch.com/
+
+DEMUNLIVSQL02Q (quality DB)
+
+======== to get the error message of file upload=================
+select * from importexceptions im
+join importstage imp on imp.importstageid =  im.importstageid 
+where  imp.importcontrolid = 48963
+================================================================
+http://lolv3-quality.techdata.eu/UploadTool/
+=============================real article query=================================
+select * from catalog where vendorid = 2 and corpregionid = 14 and catalogid in (select catalogid from sapcatalogdata
+where productexist =1 and hierarchyexist =1)
+
+========================dynamic pricing================================
+demunvsql02q--static
+country_connects where type = 'sql'
+dynamid db IP
+r3_prod_prices ->  prod_id -> distributorpartno of catalog
+
+https://lolv3-integration.techdata.eu/
+https://lolv3-quality.techdata.eu/
+===================query for checking sps via keyword name===============
+
+SELECT DISTINCT o.Name
+FROM syscomments c
+      JOIN sysobjects o ON c.ID = o.ID
+WHERE c.Text LIKE '%bcp%'
+ORDER BY o.Name
+=========================================================
+
+update ordergroups_rqg set ordergroupstatuscode=-2 where orderid=
+update ordergroups_rqg set ordergroupstatuscode=-2 where orderid=
+
+delete  from renewalquotedetails   where orderid=
+delete  from renewalquotedetails   where orderid=
+
+http://pmo.intra.techdata.eu/defectsV2/default.asp?BugID=37856
+
+
+
+select top 10 * from transxmledi with(nolock) order by insertdate desc 
+Select * From EDIXMLTransStatus with(nolock) where XMLUpdateID = 29251
+select * from Rejectiontrans with(nolock)  where Transid = 28293
+Select * from RejectionMaster with(nolock) where errorid =  64
+
+
+====================CASES WHEN JUMP HAPPENS IN RELEVILLING===========================
+
+1: MS: corporate:  if points >500 then jump from OPEN BUSSINESS TO OPEN VOLUME
+2: MS: Academic :  if points >150 then jump from OPEN BUSSINESS TO OPEN VOLUME
+3: Symantic :  if points >2000 then jump from SYM EXP TO SYM REW
+
+4: VMWARE :  if points >250 then jump from STD TO VPP
+=======c2cis================
+select * from vsqlstat.c2cis.dbo.GenericEmail
+====================================L drive dell==============================
+\\10.100.64.33\Europeshare\EU_IT_Transport\Integration\ECOM\LOL
+
+svn://10.112.99.149/techdata ebiz
+
+smart gateway-==================================
+
+http://10.118.230.48:9701/api/OrderStatusUpdate 
+
+http://10.118.230.48:82/ 
+
+http://10.117.32.28:9701/api/OrderStatusUpdate  : quality url to post PTA rejection
+
+========================quality data server where outbond XML ==========================
+\\demundata11.production.ecom.techdata\d\inbound\order\backup\P1	:P
+\\demundata11q.quality.ecom.techdata\d\inbound\order\backup\Quality	:Q
+\\10.118.230.101\d$\inbound\order\backup\LOL     	:I
+
+
+\\demundata01q.quality.ecom.techdata\d\inbound\order\backup\Quality
+
+\\demunlivfs02q.quality.ecom.techdata\r\LION\order\out
+
+L:\EU_IT_Transport\Integration\ECOM\LOL\TR_LOL_2014_08_29_Content_CHG_20031320
+
+------=================reassm folder=============================================
+\\demunlivfs02.production.ecom.techdata\Lion\LOL\reassm
+
+-------------------------------CONNECTION QUERY-------------------------------------------
+SELECT S.spid, login_time, last_batch, status, hostname, program_name, cmd,
+(
+select text from sys.dm_exec_sql_text(S.sql_handle)
+) as last_sql
+FROM sys.sysprocesses S
+where dbid > 0
+and DB_NAME(dbid) like '%c2cis%'
+and loginame like '%intouch%'
+order by last_batch asc
+
+----OPS PORTAL ===============================
+http://oosportal.techdata.de/
+=========================
+
+https://outlook.office365.com/
+
+============VPN ANYCONNECT===============
+vpn-de.techdata.eu
+10.118.186.4  : 3128
+
+10.*;*.techdata.eu;*.emea.tdworldwide.com;*.techdata.de
+10.100.90.23 : 3128
+10.*;*.emea.tdworldwide.com
+ftptest
+testftp
+
+vpnportal.techdata.eu
+1-Portal
+
+
+10.*;*.techdata.eu;*.emea.tdworldwide.com;*.techdata.de    : IE (obsolete)
+
+localhost,127.0.0.1,*.techdata.eu,10.0.0.0/8,emea.tdworldwide.com;*.techdata.de : FIREFOX
+====================================================================
+http://whoami.scansafe.net/
+=================SQL REMOVE EXTRA NEW LINES ===================
+Find what: \n\n
+Replace with: \n
+use: 'regular expressions'
+==============SMT TOOL=====================
+http://10.118.240.74/Weblink/Default
+
+http://servicedesk.emea.tdworldwide.com/Weblink/Login
+===============================================sql formater===========
+http://www.dpriver.com/pp/sqlformat.htm
+======================================================================
+
+===============QUERY TO FIND THE RENEWALS BASED ON EXPIRY DATE===================
+Select * from QuotesGenerated q
+join RenewalQuoteDetails r ON q.OrderID = r.OrderID
+where CreationDate >= '2014-11-05' and VendorID=1
+and CorpregionID=22 and r.QuoteExpiryDate = '2015-01-31'
+===================================================================================
+\\demundata01.backend.production.ecom.techdata\d$\inbound\LOLBWReport\
+
+select * from errors e  join esl..localtext l on e.ErrorLocalizedText= l.LocalTextID where l.RFC1766Code='en-GB'
+========================DELETE RENEWALS=====================================
+
+UPDATE OrderGroups_RQG SET OrderGroupStatusCode=-2 WHERE ORDERID IN (SELECT ORDERID FROM ORDERS_RQG WHERE  CORPREGIONID=12)
+DELETE FROM  RenewalQuoteDetails  WHERE ORDERID IN (SELECT ORDERID FROM ORDERS_RQG WHERE  CORPREGIONID=12)
+DELETE FROM RenewalAvailbility WHERE ORDERID IN (SELECT ORDERID FROM ORDERS_RQG WHERE  CORPREGIONID=12)
+
+===================================UPLOAD TOOL PRICEGROUP ISSUE==================================
+select * from GM_LOL_VPGTemplateArticleHier where Vendor_Product_Group='SPLA'
+
+===========security for applications=======
+
+https://www.owasp.org/index.php/Noida
+select * from esl..GM_LOL_VPGTemplateArticleHier where Vendor_Product_Group='SPLA'
+
+
+=============to stop page to be broused===========================
+ <system.web>
+        <authorization>
+            <deny roles="" users="*" />
+        </authorization>
+    </system.web>
+
+===============================MB POP VALUES IN DB==================
+ CASE SSFld30 
+ when 'POP' then 1          --TDIT_Margin_Id_ 
+ when 'MB' then 2
+ when 'POP+MB' then 3
+ ELSE  isnull(SSFld30,0)
+
+
+===================
+--This Hour
+SELECT  *
+FROM    Whatever
+WHERE   myTime >= dateadd(hour, datediff(hour, 0, GETDATE()), 0)
+
+--Last Hour
+SELECT  *
+FROM    Whatever
+WHERE   myTime  < dateadd(hour, datediff(hour, 0, GETDATE()), 0) AND  myTime >= dateadd(hour, datediff(hour, 0,  DATEADD(HOUR, -1, GETDATE())), 0)
+
+--Hour before last
+SELECT  *
+FROM    Whatever
+WHERE   myTime < dateadd(hour, datediff(hour, 0,  DATEADD(HOUR, -1, GETDATE())), 0) AND  myTime >= dateadd(hour, datediff(hour, 0, DATEADD(HOUR, -2, GETDATE())), 0)
+
+
+--===================
+use OpportunityLive
+go
+
+truncate table OpportunityAddress
+truncate table OpportunityConversionFile
+truncate table OpportunityVendorValue
+TRUNCATE TABLE OpportunityStatusEvent
+delete from  OpportunityLine
+delete from  OpportunityHeader
+
+
+--============
+
+use eslstaging
+go
+truncate table OpportunityAddress
+truncate table OpportunityConversionFile
+truncate table OpportunityVendorValue
+truncate table  OpportunityLine
+truncate table  OpportunityHeader
+truncate table  MapOpportunityRenewals
+truncate table  specialbidsupload
+truncate table  ORDERHISTORY
+truncate table OpportunityConversionFile
+truncate table ConversionFile
+
+--=============
+use OpportunityStaging
+go
+
+truncate table ErrorLog
+truncate table ImportStage
+truncate table ConversionFile
+truncate table ImportControlChild
+truncate table OrderHistory
+truncate table ImportExceptions
+
+truncate table PackageLog
+truncate table SpecialBidsUpload
+
+delete from  ImportControl
+
+--===================
+
+use OpportunityStaging
+go
+delete from importcontrolchild where importcontrolid in(select importcontrolid from importcontrol  where createdby ='kbammi')
+delete from importcontrol   where createdby ='kbammi'
+
+=======================================================================================================
+
+EXEC Proc_BuildNVOEmails @StrEmail_TypeID='EM_AtQuoteCreation',           
+                          @StrOrderGroupNo=632761,            
+                          @StrCorpRegionCode='',            
+                          @StrLanguageCode='',           
+                          @StrEmailAddress='dinesh.si@hcl.com',            
+                          @StrEmailFrom='test@test.com',            
+                          @IntVendorID=21,           
+                          @IntProgramID=92,      
+                          @StrUserID=300878,          
+                          @IntParamCorpRegionID=14,        
+        @RenewalQuoteFlag=1 
+
+
+
+		select * from GenericEmail order by 1 desc
+
+==================================================================
+
+EXEC Proc_BuilVmBulkUplaodEmails @StrEmail_TypeID='EM_BKQuoteCreation',         
+                          @StrOrderGroupNo='',            
+                          @StrCorpRegionCode='',            
+                          @StrLanguageCode='',            
+                          @StrEmailAddress='dinesh.si@hcl.com',            
+                          @StrEmailFrom='test@test.com',            
+                          @IntVendorID=21,            
+                          @IntProgramID=92,      
+                          @StrUserID=676361,
+                          @IntParamCorpRegionID=14,
+						  @RenewalQuoteFlag=1,
+							 @Genid = 10737,
+							 @debug = 1 
+
+
+			 select * from GenericEmail order by 1 desc
+
+
+
+
+
+
+===========================================
+truncate table IbmResellerSetting
+truncate table OpportunityRVI
+truncate table IBMDataForQMT
+truncate table IBMDATA
+truncate table OpportunityConversionFile
+truncate table OpportunityVendorValue
+TRUNCATE TABLE OpportunityStatusEvent
+delete from  OpportunityLine
+delete from  OpportunityHeader
+
+=========================
+delete from OpportunityAddress where Header_Id in(select id from OpportunityHeader where OpportunityType='rw'  and RowCreatedDate > GETDATE()-2)
+delete from OpportunityVendorValue where Header_Id in(select id from OpportunityHeader where OpportunityType='rw'  and RowCreatedDate > GETDATE()-2 )
+delete from OpportunityStatusEvent where Header_Id in(select id from OpportunityHeader where OpportunityType='rw'  and RowCreatedDate > GETDATE()-2 )
+delete from OpportunityLine where Header_Id in(select id from OpportunityHeader where OpportunityType='rw'  and RowCreatedDate > GETDATE()-2 )
+delete from OpportunityHeader  where OpportunityType='rw'  and RowCreatedDate > GETDATE()-2 
+
+truncate table IbmResellerSetting
+truncate table IBMDATA
+truncate table IBMDataForQMT
+
+
+delete from OpportunityAddress where Header_Id in(select id from OpportunityHeader where GenerationId=94)
+delete from OpportunityVendorValue where Header_Id in(select id from OpportunityHeader where GenerationId=94)
+delete from OpportunityStatusEvent where Header_Id in(select id from OpportunityHeader where GenerationId=94)
+delete from OpportunityLine where Header_Id in(select id from OpportunityHeader where GenerationId=94)
+delete from OpportunityHeader  where GenerationId=94
+
+
+Use the below url
+http://pmo.intra.techdata.eu/defectsV2/manage_bug_search.asp
+
+Credentials
+Mnegi
+Mnegi
+
+Test Cycles
+?  VMware Renewals
+?  Westminster Adobe ITC
+?  Westminster VMware ITC
+
+Best Regards ,
+Mukesh Negi
+
+
+
+
